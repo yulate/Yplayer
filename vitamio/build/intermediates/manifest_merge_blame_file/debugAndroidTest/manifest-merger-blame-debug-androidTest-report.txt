@@ -1,0 +1,56 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.vov.vitamio.test" >
+4
+5    <uses-sdk
+5-->E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1954961581652764262.xml:5:5-74
+6        android:minSdkVersion="15"
+6-->E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1954961581652764262.xml:5:15-41
+7        android:targetSdkVersion="22" />
+7-->E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1954961581652764262.xml:5:42-71
+8
+9    <instrumentation
+9-->E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1954961581652764262.xml:11:5-15:69
+10        android:name="android.test.InstrumentationTestRunner"
+10-->E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1954961581652764262.xml:11:22-75
+11        android:functionalTest="false"
+11-->E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1954961581652764262.xml:14:22-52
+12        android:handleProfiling="false"
+12-->E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1954961581652764262.xml:13:22-53
+13        android:label="Tests for io.vov.vitamio.test"
+13-->E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1954961581652764262.xml:15:22-67
+14        android:targetPackage="io.vov.vitamio.test" />
+14-->E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1954961581652764262.xml:12:22-65
+15
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->[__tested_artifact__::vitamio] E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-68
+16-->[__tested_artifact__::vitamio] E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-65
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->[__tested_artifact__::vitamio] E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+17-->[__tested_artifact__::vitamio] E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-64
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[__tested_artifact__::vitamio] E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-79
+18-->[__tested_artifact__::vitamio] E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-76
+19
+20    <application android:debuggable="true" >
+20-->E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1954961581652764262.xml:7:5-9:19
+20-->E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1954961581652764262.xml:7:18-43
+21        <uses-library android:name="android.test.runner" />
+21-->E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1954961581652764262.xml:8:9-60
+21-->E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1954961581652764262.xml:8:23-57
+22
+23        <activity
+23-->[__tested_artifact__::vitamio] E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-21:63
+24            android:name="io.vov.vitamio.activity.InitActivity"
+24-->[__tested_artifact__::vitamio] E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-64
+25            android:configChanges="orientation|screenSize|smallestScreenSize|keyboard|keyboardHidden|navigation"
+25-->[__tested_artifact__::vitamio] E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-113
+26            android:launchMode="singleTop"
+26-->[__tested_artifact__::vitamio] E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-43
+27            android:theme="@android:style/Theme.NoTitleBar"
+27-->[__tested_artifact__::vitamio] E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-60
+28            android:windowSoftInputMode="stateAlwaysHidden" />
+28-->[__tested_artifact__::vitamio] E:\AndroidStudioProjects\Yplayer\vitamio\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-60
+29    </application>
+30
+31</manifest>
